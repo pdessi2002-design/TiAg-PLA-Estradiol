@@ -39,13 +39,6 @@ The visualization shows the molecular interaction, delivery phases, and therapeu
 
 ---
 
-## 🌍 Live Demo
-
-Once GitHub Pages is activated, your live link will be available at:  
-👉 [https://pdessi2002-design.github.io/TiAg-PLA-Estradiol/](https://pdessi2002-design.github.io/TiAg-PLA-Estradiol/)
-
----
-
 ## 🧡 Author
 
 **Paola Dessì**  
